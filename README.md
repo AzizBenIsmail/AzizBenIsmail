@@ -1,7 +1,9 @@
 ## Hi I'm Aziz Ben Ismail <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-
-  <img src="Aziz.png"  width="100px" alt="hi" style="float:left;margin:0 10px 0 20px" >
 <br>
+  <img src="Aziz.png"  width="280px" alt="hi" style="float:left;margin:0 5px 0 20px" >
+
+
+<div style="text-align: right;">
 
 I'm Aziz Ben Ismail a 3 year  Student at (ESPRIT) in Tunisia 💻 and Content Creator on [Youtube](https://www.youtube.com/c/AzizBenIsmail). I Spend most of time coding outstanding projects or recording tutorials.
 
@@ -14,6 +16,7 @@ I'm Aziz Ben Ismail a 3 year  Student at (ESPRIT) in Tunisia 💻 and Content Cr
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AzizBenIsmail.AzizBenIsmail)
 
 
+</div>
 <!-- TODO: Add last video link -->
 
 #### ----------------------------------------------------------------------------------------------
@@ -51,15 +54,13 @@ I'm Aziz Ben Ismail a 3 year  Student at (ESPRIT) in Tunisia 💻 and Content Cr
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+
+
+
 <br />
 <br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzizBenIsmail&show_icons=true&theme=tokyonight)
-
-
-
-
-
 
 <details>
 <summary>
@@ -69,8 +70,6 @@ I'm Aziz Ben Ismail a 3 year  Student at (ESPRIT) in Tunisia 💻 and Content Cr
 <br >
 
 I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
-
-
 
 #### Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizBenIsmail&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
