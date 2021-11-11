@@ -1,18 +1,19 @@
 ## Hi I'm Aziz Ben Ismail <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-  <img src="Aziz.png"  width="180px" alt="hi" style="float:left;margin:0 10px 0 20px" >
+  <img src="Aziz.png"  width="100px" alt="hi" style="float:left;margin:0 10px 0 20px" >
 <br>
+
 I'm Aziz Ben Ismail a 3 year  Student at (ESPRIT) in Tunisia 💻 and Content Creator on [Youtube](https://www.youtube.com/c/AzizBenIsmail). I Spend most of time coding outstanding projects or recording tutorials.
 
 :mailbox: Reach me out!
 
 [![Twitter Badge](https://img.shields.io/badge/-@Benismail-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/BenIsmalAziz1?s=07)](https://twitter.com/BenIsmalAziz1?s=07) [![Mail Badge](https://img.shields.io/badge/-Sam3oulation-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/c/AzizBenIsmail) [![Linkedin Badge](https://img.shields.io/badge/-AzizBenIsmail-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aziz-ben-ismail-a111ba19a/) [![Mail Badge](https://img.shields.io/badge/-@Aziz-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/azizbensmail/) [![Mail Badge](https://img.shields.io/badge/-Sam3oulation-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:aziz.270700@gmail.com)
 
-$YouTube !
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC7tdKHWp7O-hWY_vpd8qBUw?style=social) , ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC7tdKHWp7O-hWY_vpd8qBUw?style=social)
-
-$GitHub !
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC7tdKHWp7O-hWY_vpd8qBUw?style=social) 
 ![GitHub followers](https://img.shields.io/github/followers/AzizBenIsmail?style=social)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AzizBenIsmail.AzizBenIsmail)
+
+
 <!-- TODO: Add last video link -->
 
 #### ----------------------------------------------------------------------------------------------
@@ -50,20 +51,15 @@ $GitHub !
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-
 <br />
 <br />
-
-#### Github Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzizBenIsmail&show_icons=true&theme=tokyonight)
-#### Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizBenIsmail&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-#### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AzizBenIsmail.AzizBenIsmail)
+
+
 
 <details>
 <summary>
@@ -75,9 +71,9 @@ $GitHub !
 I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
 
 
-#### Coding Stats
 
-<!--START_SECTION:waka-->
+#### Top Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizBenIsmail&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
