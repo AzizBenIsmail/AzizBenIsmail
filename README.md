@@ -1,15 +1,12 @@
 ## Hi I'm Aziz Ben Ismail <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 <br>
-  <img src="Aziz.png"  width="280px" alt="hi"  >
+  <img src="Aziz.png"  width="280px" alt="hi" style="float:right" >
 
 
-<div style="float:right;margin:5 5px 5 20px">
+
 
 I'm Aziz Ben Ismail a 3 year  Student at (ESPRIT) in Tunisia 💻 and 
-<br>
-
 Content Creator on [Youtube](https://www.youtube.com/c/AzizBenIsmail).
-<br>
 I Spend most of time coding outstanding projects or recording tutorials.
 
 :mailbox: Reach me out!
@@ -60,7 +57,6 @@ I Spend most of time coding outstanding projects or recording tutorials.
 
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
-</div>
 
 <br />
 <br />
