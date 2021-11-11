@@ -3,7 +3,7 @@
   <img src="Aziz.png"  width="280px" alt="hi" style="float:left;margin:0 5px 0 20px" >
 
 
-<div style="text-align: right;">
+<div style="float:left;margin:0 5px 0 20px">
 
 I'm Aziz Ben Ismail a 3 year  Student at (ESPRIT) in Tunisia 💻 and Content Creator on [Youtube](https://www.youtube.com/c/AzizBenIsmail). I Spend most of time coding outstanding projects or recording tutorials.
 
@@ -16,7 +16,7 @@ I'm Aziz Ben Ismail a 3 year  Student at (ESPRIT) in Tunisia 💻 and Content Cr
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AzizBenIsmail.AzizBenIsmail)
 
 
-</div>
+
 <!-- TODO: Add last video link -->
 
 #### ----------------------------------------------------------------------------------------------
@@ -55,7 +55,7 @@ I'm Aziz Ben Ismail a 3 year  Student at (ESPRIT) in Tunisia 💻 and Content Cr
 
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
-
+</div>
 
 <br />
 <br />
