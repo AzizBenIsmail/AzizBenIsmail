@@ -60,8 +60,6 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 
 <!--END_SECTION:waka-->
 
-
-
 </details>
 
 
