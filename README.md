@@ -42,7 +42,7 @@ I am completely passionate about frontend/backend development , I love listening
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzizBenIsmail&show_icons=true&theme=tokyonight)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedderbali&&theme=tokyonight" alt="mohamedderbali" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AzizBenIsmail&&theme=tokyonight" alt="AzizBenIsmail" /></p>
 
 <details>
 <summary>
