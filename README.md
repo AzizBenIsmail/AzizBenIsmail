@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Ben+Ismail+Aziz!;I'm+a+JS+Developer...;I'm+also+Machine+Learning+Engineer;And+I'm+a+proud+Tunisian)](https://git.io/typing-svg) <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0099DD&size=30&lines=Hey!+It's+Ben+Ismail+Aziz!;Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things)](https://git.io/typing-svg) <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 <br> 
   <img title="My Avatar" align="left" src="Aziz.png"  width="500px" alt="hi" >
 
@@ -23,14 +23,14 @@ I am completely passionate about frontend backend development , I love listening
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
-<!-- TODO: Add last video link -->
+<!-- TODO: Add last video link 
 
 - 🔭 I’m currently working at @Toptal
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Video ideas.
 - 📫 How to reach me: aziz.270700@gmail.com.
 - 😄 Pronouns: Sam3oulation,Ismail.
-
+-->
 
 
 
