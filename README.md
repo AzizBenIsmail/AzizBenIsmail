@@ -54,6 +54,25 @@ I am completely passionate about frontend backend development , I love listening
 Credit: [Aziz Ben Ismail](https://github.com/AzizBenIsmail)
 
 Last Edited on: 03/08/2023
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <div>
+  <samp>
+      <br/>
+    <details open>
+  <summary><h3>Languages</h3></summary>
+            <p align="center">
+      </p>
+        <p align="center">
+          <a href="https://github.com/AzizBenIsmail/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AzizBenIsmail&theme=gruvbox&layout=compact&hide_border=true"
+          alt="1999AZZAR :: Top Langs by repo" />
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AzizBenIsmail&theme=gruvbox&layout=compact&hide_border=true"
+          alt="1999AZZAR :: Top Langs by commit" />
+          </a>
+        </p>
+</details>
+
 <details>
 <summary>
   More stuff about me
