@@ -1,6 +1,7 @@
-## Hi I'm Aziz Ben Ismail <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-<br>
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Ben+Ismail+Aziz!;I'm+a+JS+Developer...;I'm+also+Machine+Learning+Engineer;And+I'm+a+proud+Tunisian)](https://git.io/typing-svg) <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+<br> 
   <img title="My Avatar" align="left" src="Aziz.png"  width="500px" alt="hi" >
+
 
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
@@ -17,7 +18,7 @@ I am completely passionate about frontend backend development , I love listening
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC7tdKHWp7O-hWY_vpd8qBUw?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/AzizBenIsmail?style=social)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AzizBenIsmail.AzizBenIsmail)
-
+<img src="https://img.shields.io/badge/Age-23-blue" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
@@ -39,12 +40,11 @@ I am completely passionate about frontend backend development , I love listening
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AzizBenIsmail&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="AzizBenIsmail" /></p>
-
+![Ismail's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizBenIsmail&theme=tokyonight&layout=compact)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzizBenIsmail&show_icons=true&theme=tokyonight)](https://github.com/AzizBenIsmail)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AzizBenIsmail&&theme=tokyonight" alt="AzizBenIsmail" /></p>
@@ -55,7 +55,7 @@ Credit: [Aziz Ben Ismail](https://github.com/AzizBenIsmail)
 
 Last Edited on: 03/08/2023
 <details> 
-  <summary>💻 GitHub Profile Stats</summary>
+  <summary>  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>GitHub Profile Stats </summary>
   <div>
   <samp>
       <br/>
