@@ -4,7 +4,7 @@
 
 
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 180px></picture>
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 200px></picture>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 I'm Aziz Ben Ismail a Computer science student at (ESPRIT) in Tunisia 💻 , I'm 22 years old and Content Creator on [Youtube](https://www.youtube.com/c/AzizBenIsmail).
