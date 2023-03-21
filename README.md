@@ -5,16 +5,17 @@
 <img title="My Avatar" align="left" src="assets/images/Aziz.png"  width="500px" alt="hi" >
 
 <!--  Ceci une image -->
-<picture> <img align="right" src="assets/Right_Side.gif" width = 150px></picture>
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 200px></picture>
 
 <!--  About me -->
-## <picture><img src = "assets/about_me.gif" width = 50px></picture> **About me**
+<!--## <picture><img src = "assets/about_me.gif" width = 50px></picture> **About me**-->
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 I'm Aziz Ben Ismail a Computer science student at (ESPRIT) in Tunisia 💻 , I'm 22 years old and Content Creator on [Youtube](https://www.youtube.com/c/AzizBenIsmail).
 I am completely passionate about frontend backend development , I love listening to music , watching movies, series and sharing it with my friends.
 <img height ="20" src= "assets/friends.gif" />
 
 <!-- Let's Connect..! -->
-# <b> Let's Connect..!</b><img src="assets/images/handshake.gif" width ="70">
+# <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 [![Twitter Badge](https://img.shields.io/badge/-@AzizBenIsmail-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/BenIsmalAziz1?s=07)](https://twitter.com/BenIsmalAziz1?s=07) 
 [![Mail Badge](https://img.shields.io/badge/-AzizBenIsmail-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/c/AzizBenIsmail) 
@@ -29,8 +30,7 @@ I am completely passionate about frontend backend development , I love listening
 <img src="https://img.shields.io/badge/Age-23-blue" />
 
 <!-- Ligne  -->
-<img src="assets/images/Ligne.gif"><br><br>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <!-- TODO: Add last video link 
 
 - 🔭 I’m currently working at @Toptal
@@ -42,7 +42,7 @@ I am completely passionate about frontend backend development , I love listening
 
 
 <!-- Skills  -->
-## <img src="assets/images/Skills.gif" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
 <!-- TODO: Make technologies links takes you to repositories -->
@@ -50,7 +50,7 @@ I am completely passionate about frontend backend development , I love listening
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
 <!-- Github Stats   -->
-## <img src="assets/Stats.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ![Ismail's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizBenIsmail&theme=algolia&layout=compact)
@@ -60,8 +60,7 @@ I am completely passionate about frontend backend development , I love listening
 
 <img alt="Berkeli's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=AzizBenIsmail&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
-<img src="assets/images/Ligne.gif"><br><br>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <div align="center" >
 
 | Choose your language         | Flags                                                                                                              |
@@ -72,7 +71,7 @@ I am completely passionate about frontend backend development , I love listening
 
 </div>
 <!-- Ligne  -->
-<img src="assets/images/Ligne.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 Credit: [Aziz Ben Ismail](https://github.com/AzizBenIsmail)
 
