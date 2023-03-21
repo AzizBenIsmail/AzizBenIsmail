@@ -21,6 +21,7 @@ I am completely passionate about frontend backend development , I love listening
 [![Mail Badge](https://img.shields.io/badge/-@AzizBenIsmail-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/azizbensmail/) 
 [![Mail Badge](https://img.shields.io/badge/-AzizBenIsmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:aziz.270700@gmail.com)
 
+<!-- YouTube Channel Views /GitHub followers /visitors/Age  -->
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC7tdKHWp7O-hWY_vpd8qBUw?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/AzizBenIsmail?style=social)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AzizBenIsmail.AzizBenIsmail)
