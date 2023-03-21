@@ -5,13 +5,13 @@
 <img title="My Avatar" align="left" src="assets/images/Aziz.png"  width="500px" alt="hi" >
 
 <!--  Ceci une image -->
-<picture> <img align="right" src="assets/Right_Side.gif" width = 200px></picture>
+<picture> <img align="right" src="assets/Right_Side.gif" width = 180px></picture>
 
 <!--  About me -->
-## <picture><img src = "assets/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "assets/about_me.gif" width = 35px></picture> **About me**
 I'm Aziz Ben Ismail a Computer science student at (ESPRIT) in Tunisia 💻 , I'm 22 years old and Content Creator on [Youtube](https://www.youtube.com/c/AzizBenIsmail).
 I am completely passionate about frontend backend development , I love listening to music , watching movies, series and sharing it with my friends.
-<img height ="30" src= "assets/friends.gif" />
+<img height ="20" src= "assets/friends.gif" />
 
 <!-- Let's Connect..! -->
 # <b> Let's Connect..!</b><img src="assets/images/handshake.gif" width ="80">
