@@ -78,12 +78,10 @@ Credit: [Aziz Ben Ismail](https://github.com/AzizBenIsmail)
 
 Last Edited on: 03/08/2023
 <details> 
-  <summary>  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>GitHub Profile Stats </summary>
+  <summary>  <img src="./assets/giphy.gif" width="30px" alt="Git"/>GitHub Profile Stats </summary>
   <div>
   <samp>
       <br/>
-    <details open>
-  <summary><h3>Languages</h3></summary>
             <p align="center">
       </p>
         <p align="center">
@@ -96,31 +94,7 @@ Last Edited on: 03/08/2023
         </p>
 </details>
 
-<details>
-<summary>
-  More stuff about me
-</summary>
 
-<br >
-
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
-
-#### Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizBenIsmail&layout=compact)](https://github.com/AzizBenIsmail/github-readme-stats)
-
-
- [![trophy](https://github-profile-trophy.vercel.app/?username=AzizBenIsmail&row=2&column=3)](https://github.com/AzizBenIsmail/proj-parental-monitoring-system-2A21-G6)
-
-
-<!--END_SECTION:waka-->
-<div align="center">
-
-| Escolha seu idioma         | Bandeiras                                                                                                              |
-| -------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| [EN-US](./README.md)       | <img width="50%" alt="Node4Devs Logo" title="Bandeira dos Estados Unidos (EUA)" src="./assets/images/flags/usa.svg" /> |
-| [PT-BR](./README-PT-BR.md) | <img width="50%" alt="Node4Devs Logo" title="Bandeira do Brasil (BR)" src="./assets/images/flags/brazil.svg" />        |
-
-</details>
 
 
 [reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
