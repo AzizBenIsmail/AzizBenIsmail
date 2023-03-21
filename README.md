@@ -5,13 +5,13 @@
 <img title="My Avatar" align="left" src="assets/images/Aziz.png"  width="500px" alt="hi" >
 
 <!--  Ceci une image -->
-<picture> <img align="right" src="./assets/Right_Side.gif" width = 200px></picture>
+<picture> <img align="right" src="assets/Right_Side.gif" width = 200px></picture>
 
 <!--  About me -->
-## <picture><img src = "./assets/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "assets/about_me.gif" width = 50px></picture> **About me**
 I'm Aziz Ben Ismail a Computer science student at (ESPRIT) in Tunisia 💻 , I'm 22 years old and Content Creator on [Youtube](https://www.youtube.com/c/AzizBenIsmail).
 I am completely passionate about frontend backend development , I love listening to music , watching movies, series and sharing it with my friends.
-<img height ="30" src= "./assets/friends.gif" />
+<img height ="30" src= "assets/friends.gif" />
 
 <!-- Let's Connect..! -->
 # <b> Let's Connect..!</b><img src="assets/images/handshake.gif" width ="80">
@@ -50,7 +50,7 @@ I am completely passionate about frontend backend development , I love listening
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
 <!-- Github Stats   -->
-## <img src="./assets/Stats.gif" width="35"><b> Github Stats </b>
+## <img src="assets/Stats.gif" width="35"><b> Github Stats </b>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ![Ismail's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizBenIsmail&theme=algolia&layout=compact)
