@@ -78,7 +78,7 @@ Credit: [Aziz Ben Ismail](https://github.com/AzizBenIsmail)
 
 Dernière édition le: 03/08/2023
 <details> 
-  <summary>  <img src="./assets/giphy.gif" width="30px" alt="Git"/>GitHub Profile Stats </summary>
+  <summary>  <img src="./assets/giphy.gif" width="30px" alt="Git"/>Statistiques de profil GitHub </summary>
   <div>
   <samp>
       <br/>
