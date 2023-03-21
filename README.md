@@ -8,13 +8,13 @@
 <picture> <img align="right" src="assets/Right_Side.gif" width = 180px></picture>
 
 <!--  About me -->
-## <picture><img src = "assets/about_me.gif" width = 35px></picture> **About me**
+## <picture><img src = "assets/about_me.gif" width = 40px></picture> **About me**
 I'm Aziz Ben Ismail a Computer science student at (ESPRIT) in Tunisia 💻 , I'm 22 years old and Content Creator on [Youtube](https://www.youtube.com/c/AzizBenIsmail).
 I am completely passionate about frontend backend development , I love listening to music , watching movies, series and sharing it with my friends.
 <img height ="20" src= "assets/friends.gif" />
 
 <!-- Let's Connect..! -->
-# <b> Let's Connect..!</b><img src="assets/images/handshake.gif" width ="80">
+# <b> Let's Connect..!</b><img src="assets/images/handshake.gif" width ="70">
 
 [![Twitter Badge](https://img.shields.io/badge/-@AzizBenIsmail-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/BenIsmalAziz1?s=07)](https://twitter.com/BenIsmalAziz1?s=07) 
 [![Mail Badge](https://img.shields.io/badge/-AzizBenIsmail-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/c/AzizBenIsmail) 
