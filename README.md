@@ -99,6 +99,14 @@ Last Edited on: 03/08/2023
           alt="1999AZZAR :: Top Langs by commit" />
           </a>
         </p>
+    <br>
+
+<!-- Trophies  -->
+## <img src="https://media.giphy.com/media/dxIWYNNVCxFXdP76XE/giphy.gif" width ="25"><b> Trophies</b>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AzizBenIsmail&theme=nord&column=7)](https://github.com/Naderab/github-profile-trophy)
+
+<br>
 </details>
 
 
