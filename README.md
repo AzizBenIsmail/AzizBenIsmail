@@ -63,7 +63,9 @@ I am completely passionate about frontend backend development , I love listening
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzizBenIsmail&show_icons=true&theme=algolia)](https://github.com/AzizBenIsmail)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AzizBenIsmail&&theme=algolia" alt="AzizBenIsmail" /></p>
-![](https://github-readme-activity-graph.vercel.app/graph?username=AzizBenIsamil&theme=react)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=AzizBenIsmail&theme=react)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
