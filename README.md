@@ -33,6 +33,7 @@ I am completely passionate about frontend backend development .
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC7tdKHWp7O-hWY_vpd8qBUw?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/AzizBenIsmail?style=social)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AzizBenIsmail.AzizBenIsmail)
+![Github Page Visit Count](https://komarev.com/ghpvc/?username=AzizBenIsmail)
 <img src="https://img.shields.io/badge/Age-23-blue" />
 
 <!-- Ligne  -->
