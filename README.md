@@ -31,9 +31,9 @@ I am completely passionate about frontend backend development .
 <!-- YouTube Channel Views /GitHub followers /visitors/Age  -->
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC7tdKHWp7O-hWY_vpd8qBUw?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/AzizBenIsmail?style=social)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AzizBenIsmail.AzizBenIsmail)
+<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=AzizBenIsmail.AzizBenIsmail)-->
 ![Github Page Visit Count](https://komarev.com/ghpvc/?username=AzizBenIsmail)
-<img src="https://img.shields.io/badge/Age-23-blue" />
+<img src="https://img.shields.io/badge/Age-24-blue" />
 
 <!-- Ligne  -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
