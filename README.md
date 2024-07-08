@@ -32,8 +32,6 @@ I am completely passionate about frontend backend development .
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC7tdKHWp7O-hWY_vpd8qBUw?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/AzizBenIsmail?style=social)
 [![wakatime](https://wakatime.com/badge/user/c0a37276-8396-4881-b56d-232ffd4059dc/project/2c199d38-84a2-4054-9b13-a685f16d5160.svg)](https://wakatime.com/badge/user/c0a37276-8396-4881-b56d-232ffd4059dc/project/2c199d38-84a2-4054-9b13-a685f16d5160)
-[![wakatime](https://wakatime.com/badge/user/dc8452f4-4528-440c-adf1-4e5859ea9cce.svg)](https://wakatime.com/@dc8452f4-4528-440c-adf1-4e5859ea9cce)
-https://wakatime.com/@c0a37276-8396-4881-b56d-232ffd4059dc/projects/njcbodtylf?start=2024-06-29&end=2024-07-05
 <!--![visitors](https://visitor-badge.glitch.me/badge?page_id=AzizBenIsmail.AzizBenIsmail)-->
 ![Github Page Visit Count](https://komarev.com/ghpvc/?username=AzizBenIsmail)
 <img src="https://img.shields.io/badge/Age-24-blue" />
