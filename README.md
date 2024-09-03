@@ -90,7 +90,7 @@ I am completely passionate about frontend backend development .
 
 Credit: [Aziz Ben Ismail](https://github.com/AzizBenIsmail) 
 
-Last Edited on: 03/08/2024
+Last Edited on: 03/09/2024
 <details> 
   <summary>  <img src="./assets/giphy.gif" width="30px" alt="Git"/>GitHub Profile Stats </summary>
   <div>
