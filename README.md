@@ -11,14 +11,12 @@
 <!--  Ceci mon Avatar-->
 <img title="My Avatar" align="left" src="assets/images/Aziz.png"  width="500px" alt="hi" >
 
-
 <!--  About me -->
 <!--## <picture><img src = "assets/about_me.gif" width = 50px></picture> **About me**-->
 **About me**
 
 I'm Mohamed Aziz Ben Ismail a Computer science student at (ESPRIT) in Tunisia 💻 , I'm 25 years old and Content Creator on [Youtube](https://www.youtube.com/c/AzizBenIsmail).
-I am completely passionate about frontend backend development .
-<img height ="20" src= "assets/friends.gif" />
+I am completely passionate about frontend backend development .<img height ="20" src= "assets/friends.gif" />
 
 <!-- Let's Connect..! -->
 # <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
